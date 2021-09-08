@@ -24,3 +24,18 @@ I  like bejjikal because it is **greenery** village .It is covered  two lakes,tw
     * Iphone
     * Laptop
     * watch
+
+[AboutMe](https://github.com/vamshimerugu22/Assignment2-Merugu/blob/main/AboutMe.md)
+
+---
+
+# Table
+
+I  would Recommend Food And Drinks In This Table.
+
+|     FOOD/DRINK    |       LOCATION     |      COST     |    
+|           ---                   |           ---                 |       ---          |
+|    Chicken Birayani  |     RTC cross road  |       7$          |
+|     Pizza                    |       KFC                 |       10$         |
+|     Coffee                  |   Cafe Coffe Day    |      25$         |
+|     Tea                       |     lb nagar              |       5$          |
