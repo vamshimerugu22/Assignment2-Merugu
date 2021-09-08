@@ -39,3 +39,11 @@ I  would Recommend Food And Drinks In This Table.
 |     Pizza                    |       KFC                 |       10$         |
 |     Coffee                  |   Cafe Coffe Day    |      25$         |
 |     Tea                       |     lb nagar              |       5$          |
+
+---
+
+# Quotes by Authors
+>  "Arise !Awake! and stop not until goal is reached."  - by
+***Swami vivekananda***  <br>
+>  "A  discplined mind brings happiness"  - by
+***Lord Buddha***  
