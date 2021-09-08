@@ -13,3 +13,14 @@ I  like bejjikal because it is **greenery** village .It is covered  two lakes,tw
     1. Waiting for flight
     2. Boarding flight      
 3. Reached destination
+
+*  Clothes
+    * T-shirts
+    * Shoes
+    * Tracks
+    * Jackets
+
+* Electronic devices
+    * Iphone
+    * Laptop
+    * watch
