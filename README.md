@@ -43,7 +43,27 @@ I  would Recommend Food And Drinks In This Table.
 ---
 
 # Quotes by Authors
->  "Arise !Awake! and stop not until goal is reached."  - by
+>  "Arise! Awake! and stop not until goal is reached."  - by
 ***Swami vivekananda***  <br>
 >  "A  discplined mind brings happiness"  - by
 ***Lord Buddha***  
+
+---
+#  Code Fencing  usage in Suffix Array
+>   An array of all starting positions of suffixes of a string arranged in lexicographical order. This allows binary search or fast substring search
+
+Link to source <https://xlinux.nist.gov/dads/HTML/suffixarray.html>
+```
+int lcp(int i, int j) {
+    int ans = 0;
+    for (int k = log_n; k >= 0; k--) {
+        if (c[k][i] == c[k][j]) {
+            ans += 1 << k;
+            i += 1 << k;
+            j += 1 << k;
+        }
+    }
+    return ans;
+}
+```
+Link to source<https://cp-algorithms.com/string/suffix-array.html>
